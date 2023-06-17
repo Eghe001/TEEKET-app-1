@@ -1,17 +1,11 @@
 
-# Project Teeket
-
-# HerTechTrail Team 6 Capstone Project cd
-
-# Getting Started with Create React App
-
 # Project- Teeket APP
 
 # HerTechTrail Team 6 Capstone Project 
 Team members: Oreoluwa Ruth Ajayi and Eghe Cynthia Igbinoba
 
 # Teeket App
-This is a simple web app that allows users to create, book and manage tickets for various events. It uses React.js for the frontend, Tailwind CSS for the styling, and Firebase for the backend and authentication.
+This is a simple web app that allows users to create, book and manage tickets for various events. It uses React for the frontend, Tailwind CSS for the styling, and Firebase for the backend and authentication.
 
 # Features
 Users can sign up and log in with their email and password or Google account.
